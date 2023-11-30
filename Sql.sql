@@ -1066,7 +1066,7 @@ Window functions in SQL 🙋‍
 
 *-----------------------------------------------------------------------------------------------*
 Triggers in SQL 🙋‍
-    - Triggers are statements that are execute automatically in the orde of occurance 
+    - Triggers are statements that are execute automatically in the order of occurance 
       of any events.
     - It is executed whenever there is any change or modification in DB.
     - It will execute if any of the operation is performed in DB.
